@@ -1,11 +1,11 @@
 {
   "name": "@kotify/frappe-charts",
-  "version": "1.4.1k6",
+  "version": "1.4.1k7",
   "description": "https://github.com/kotify/charts",
-  "main": "dist/kotify-charts.min.cjs.js",
-  "module": "dist/kotify-charts.min.esm.js",
-  "src": "dist/kotify-charts.esm.js",
-  "browser": "dist/kotify-charts.min.iife.js",
+  "main": "dist/frappe-charts.min.cjs.js",
+  "module": "dist/frappe-charts.min.esm.js",
+  "src": "dist/frappe-charts.esm.js",
+  "browser": "dist/frappe-charts.min.iife.js",
   "directories": {
     "doc": "docs"
   },
