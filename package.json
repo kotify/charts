@@ -1,6 +1,6 @@
 {
   "name": "@kotify/frappe-charts",
-  "version": "1.4.1k3",
+  "version": "1.4.1k4",
   "description": "https://github.com/kotify/charts",
   "main": "dist/kotify-charts.min.cjs.js",
   "module": "dist/kotify-charts.min.esm.js",
