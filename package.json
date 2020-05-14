@@ -1,11 +1,11 @@
 {
-  "name": "frappe-charts",
-  "version": "1.4.1",
-  "description": "https://frappe.github.io/charts",
-  "main": "dist/frappe-charts.min.cjs.js",
-  "module": "dist/frappe-charts.min.esm.js",
-  "src": "dist/frappe-charts.esm.js",
-  "browser": "dist/frappe-charts.min.iife.js",
+  "name": "@kotify/frapper-charts",
+  "version": "1.4.1k1",
+  "description": "https://github.com/kotify/charts",
+  "main": "dist/kotify-charts.min.cjs.js",
+  "module": "dist/kotify-charts.min.esm.js",
+  "src": "dist/kotify-charts.esm.js",
+  "browser": "dist/kotify-charts.min.iife.js",
   "directories": {
     "doc": "docs"
   },
@@ -21,18 +21,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/charts.git"
+    "url": "git+https://github.com/kotify/charts.git"
   },
   "keywords": [
     "js",
     "charts"
   ],
-  "author": "Prateeksha Singh",
+  "author": "Kotify",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frappe/charts/issues"
+    "url": "https://github.com/kotify/charts/issues"
   },
-  "homepage": "https://github.com/frappe/charts#readme",
+  "homepage": "https://github.com/kotify/charts#readme",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
     "babel-core": "^6.26.3",
