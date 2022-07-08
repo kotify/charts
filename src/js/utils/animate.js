@@ -1,9 +1,9 @@
 import { getBarHeightAndYAttr, getSplineCurvePointsStr } from './draw-utils';
 
-export const UNIT_ANIM_DUR = 350;
-export const PATH_ANIM_DUR = 350;
+export const UNIT_ANIM_DUR = 3350;
+export const PATH_ANIM_DUR = 3350;
 export const MARKER_LINE_ANIM_DUR = UNIT_ANIM_DUR;
-export const REPLACE_ALL_NEW_DUR = 250;
+export const REPLACE_ALL_NEW_DUR = 3150;
 
 export const STD_EASING = 'easein';
 
